@@ -5,6 +5,7 @@
 import random
 from enum import Enum
 
+#Create a list for the options
 pos_options = ["R", "P", "S"]
 #A class go give a name to the choices' attributes
 class Action(Enum):
